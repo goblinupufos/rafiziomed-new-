@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rafiziomed-new-/static/css/main.d6ca3ca0.chunk.css",
-    "main.js": "/rafiziomed-new-/static/js/main.d6a196fb.chunk.js",
-    "main.js.map": "/rafiziomed-new-/static/js/main.d6a196fb.chunk.js.map",
+    "main.js": "/rafiziomed-new-/static/js/main.cbb8755d.chunk.js",
+    "main.js.map": "/rafiziomed-new-/static/js/main.cbb8755d.chunk.js.map",
     "runtime-main.js": "/rafiziomed-new-/static/js/runtime-main.9cf819d3.js",
     "runtime-main.js.map": "/rafiziomed-new-/static/js/runtime-main.9cf819d3.js.map",
     "static/css/2.d649c8cc.chunk.css": "/rafiziomed-new-/static/css/2.d649c8cc.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.d649c8cc.chunk.css",
     "static/js/2.4c0ac479.chunk.js",
     "static/css/main.d6ca3ca0.chunk.css",
-    "static/js/main.d6a196fb.chunk.js"
+    "static/js/main.cbb8755d.chunk.js"
   ]
 }
