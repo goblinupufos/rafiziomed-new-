@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rafiziomed-new-/static/css/main.868215d3.chunk.css",
-    "main.js": "/rafiziomed-new-/static/js/main.32c15446.chunk.js",
-    "main.js.map": "/rafiziomed-new-/static/js/main.32c15446.chunk.js.map",
+    "main.css": "/rafiziomed-new-/static/css/main.c75aa53d.chunk.css",
+    "main.js": "/rafiziomed-new-/static/js/main.94b0c215.chunk.js",
+    "main.js.map": "/rafiziomed-new-/static/js/main.94b0c215.chunk.js.map",
     "runtime-main.js": "/rafiziomed-new-/static/js/runtime-main.9cf819d3.js",
     "runtime-main.js.map": "/rafiziomed-new-/static/js/runtime-main.9cf819d3.js.map",
     "static/css/2.d649c8cc.chunk.css": "/rafiziomed-new-/static/css/2.d649c8cc.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.4c0ac479.chunk.js.map": "/rafiziomed-new-/static/js/2.4c0ac479.chunk.js.map",
     "index.html": "/rafiziomed-new-/index.html",
     "static/css/2.d649c8cc.chunk.css.map": "/rafiziomed-new-/static/css/2.d649c8cc.chunk.css.map",
-    "static/css/main.868215d3.chunk.css.map": "/rafiziomed-new-/static/css/main.868215d3.chunk.css.map",
+    "static/css/main.c75aa53d.chunk.css.map": "/rafiziomed-new-/static/css/main.c75aa53d.chunk.css.map",
     "static/js/2.4c0ac479.chunk.js.LICENSE.txt": "/rafiziomed-new-/static/js/2.4c0ac479.chunk.js.LICENSE.txt",
     "static/media/doctorIlustraison.23b7edda.svg": "/rafiziomed-new-/static/media/doctorIlustraison.23b7edda.svg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.9cf819d3.js",
     "static/css/2.d649c8cc.chunk.css",
     "static/js/2.4c0ac479.chunk.js",
-    "static/css/main.868215d3.chunk.css",
-    "static/js/main.32c15446.chunk.js"
+    "static/css/main.c75aa53d.chunk.css",
+    "static/js/main.94b0c215.chunk.js"
   ]
 }
